@@ -1,2 +1,4 @@
 *.code-workspace
 /FastAPI/fastapi
+*.sqlite3
+*__pycache__
